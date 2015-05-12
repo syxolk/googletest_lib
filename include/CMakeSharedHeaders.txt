@@ -1,0 +1,2 @@
+set(USE_GOOGLETEST ON)
+enable_testing()
